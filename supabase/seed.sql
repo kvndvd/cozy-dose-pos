@@ -253,4 +253,4 @@ values
     '+1 Espresso Shot',
     40,
     2
-),
+);
